@@ -18,8 +18,8 @@ In the field of defense, traditional reconnaissance systems often face challenge
 
 ### 2. Retrieval Augmented Genration
 - **Dataset:** Here is the link to the dataset (https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset/data) of Fighter planes which are required to Fine Tune the LLM to recognise and automated classification for Threat Response.
-- **Cloud Service:** Use any of the cloud service like- AWS, Google, Zilliz where you can extract the personalised data and augment the pre-trained LLM with a retrieval module to extract pertinent information from a vast dataset.
-- **Extra Features:** You could also fine tune the LLAVA with more features like- Pre Sensing the Bomb in near proximity, detection of various militiary bases and weak points in the base. 
+- **Cloud Services:** Use any of the cloud services like- AWS, Google, Zilliz where you can extract the personalised data and augment the pre-trained LLM with a retrieval module to extract pertinent information from a vast training data.
+- **Extra Features:** You could also fine tune the LLAVA with more features like- Pre Sensing the Bomb in near proximity, detection of various militiary bases and weak points in the base, will provide you with more datasets if you are willing to work with more dedication. 
 
 ### 2. Machine Learning for Threat Recognition
 
