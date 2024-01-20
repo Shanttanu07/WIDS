@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Advanced Defense Threat Analysis System is a cutting-edge reconnaissance project designed to enhance situational awareness in defense applications. This system leverages the collaborative strengths of Large Language and Vision Assistant (LLAVA), Machine Learning (ML), and YOLO (You Only Look Once) object detection.
+The Advanced Defense Threat Analysis System is a cutting-edge reconnaissance project designed to enhance situational awareness in defense applications. This system leverages the collaborative strengths of Large Language and Vision Assistant (LLAVA), Machine Learning (ML), and YOLO (You Only Look Once) object detection. Website for the resources [link](https://wids-2023.notion.site/WIDS-PROJECT-3f543ec7a36b4f978b2324890b893bec) 
 
 ## Problem Statement
 
